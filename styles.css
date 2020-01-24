@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+}
+
+.glados {
+    text-align: center;
+}
+
+#glados {
+    width: 425px;
+}
+
+.next {
+    padding: 3em;
+}
+
+#arrow {
+    padding: .5em;
+    background-color: #000;
+    color: #fff;
+    font-size: 2em;
+    border-radius: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.glad {
+    text-align: center;
+}
+
+.col {
+    padding: 3em;
+}
+
+.smol {
+    font-size: 0.2em;
+}
